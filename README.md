@@ -1,5 +1,5 @@
 
----
+
 
 ### **[ Experience ]**
 
@@ -10,7 +10,6 @@
 - 대학교 연합동아리 UMC 3기 중앙대학교 지부 Spring Boot 파트장 (2022년 9월 ~ 진행중 )
 - LG CNS 아키텍처 담당에서 실시한 ‘IT 아키텍처 전문가 양성 특강' 수료 (2022 10월 31일~ 11월 3일)
 
----
 
 ### [Skills]
 
@@ -29,7 +28,6 @@
 - IntelliJ, DataGrip, Visual Studio Code, Vim
 - Git
 
----
 
 ### Front-end
 
