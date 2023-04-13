@@ -33,7 +33,6 @@
 
 - HTML5, CSS3, JavaScript
 - Android
-- Vue.js (공부중)
 
 ### DevOps
 
